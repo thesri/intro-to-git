@@ -7,4 +7,4 @@
 - Tania Banerjee
 - Subhajit Bera
 - Srivarsha
-- Satya
+
